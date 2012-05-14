@@ -9,6 +9,7 @@ $logoutUrl=$_SESSION['logout'];
 $access_token_title='fb_'.$facebook_appid.'_access_token';
 $access_token=$facebook[$access_token_title];
 //Teste Git
+//Revision
 
 if(!empty($userdata))
 {
